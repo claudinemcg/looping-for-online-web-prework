@@ -1,7 +1,7 @@
 
-#def using_for
-#	checklist = 1..10
-	#your code here
-#end
+def using_for
+	checklist = 1..10
+	
+end
 
-print (1..40).to_a
+
