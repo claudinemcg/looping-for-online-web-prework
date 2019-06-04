@@ -4,4 +4,4 @@
 	#your code here
 #end
 
-puts (1..40).to_a
+print (1..40).to_a
