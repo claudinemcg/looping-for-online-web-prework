@@ -4,4 +4,4 @@
 	#your code here
 #end
 
-(1..40).to_a
+puts (1..40).to_a
